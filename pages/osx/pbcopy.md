@@ -10,4 +10,4 @@
 
 - Place the results of a specific command in the clipboard:
 
-`find . -type t -name "*.png" | pbcopy`
+`find . -type f -name "*.png" | pbcopy`

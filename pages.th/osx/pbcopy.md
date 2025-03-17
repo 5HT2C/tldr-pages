@@ -10,4 +10,4 @@
 
 - คัดลอกผลลัพธ์ของคำสั่งไปยังคลิปบอร์ด:
 
-`find . -type t -name "*.png" | pbcopy`
+`find . -type f -name "*.png" | pbcopy`

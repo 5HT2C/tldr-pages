@@ -10,4 +10,4 @@
 
 - 특정 명령의 결과를 클립보드에 복사:
 
-`find . -type t -name "*.png" | pbcopy`
+`find . -type f -name "*.png" | pbcopy`

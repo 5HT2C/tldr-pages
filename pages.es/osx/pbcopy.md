@@ -10,4 +10,4 @@
 
 - Coloca los resultados de un comando específico en el portapapeles:
 
-`find . -type t -name "*.png" | pbcopy`
+`find . -type f -name "*.png" | pbcopy`

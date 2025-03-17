@@ -9,4 +9,4 @@
 
 - Menempatkan hasil perintah pada papan klip:
 
-`find . -type t -name "*.png" | pbcopy`
+`find . -type f -name "*.png" | pbcopy`
